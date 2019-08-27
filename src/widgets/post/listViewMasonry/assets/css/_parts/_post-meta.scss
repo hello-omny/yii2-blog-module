@@ -1,0 +1,40 @@
+.post-meta {
+  font-size: 12px;
+  list-style: none;
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+
+.post-meta > li {
+  padding: 0;
+  margin-left: 0;
+  margin-bottom: 5px;
+}
+
+.post-meta a {
+  border: 0;
+}
+
+.post-meta a:hover {
+  color: red;
+}
+
+.post-meta__category {
+
+}
+
+.post-meta__date {
+  margin-right: 10px;
+}
+
+.post-meta__author {
+  margin-right: 10px;
+}
+
+.post-meta__comments {
+  margin-right: 0;
+}
+
+.post-meta .fa {
+  color: rgba(0, 0, 0, 0.2);
+}
